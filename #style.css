@@ -1,0 +1,11 @@
+.presentacion {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5% 10%;
+    gap: 82px;
+}
+
+.presentacion_imagen {
+    width: 50%;
+}
